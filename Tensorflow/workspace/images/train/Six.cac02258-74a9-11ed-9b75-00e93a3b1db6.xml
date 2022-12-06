@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Six.cac02258-74a9-11ed-9b75-00e93a3b1db6.jpg</filename>
+	<path>D:\SignLanguage\Tensorflow\workspace\images\collectedimages\Six.cac02258-74a9-11ed-9b75-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Six</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>148</ymin>
+			<xmax>506</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

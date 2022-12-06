@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Three.8864fe0f-74a9-11ed-8b4d-00e93a3b1db6.jpg</filename>
+	<path>D:\SignLanguage\Tensorflow\workspace\images\collectedimages\Three.8864fe0f-74a9-11ed-8b4d-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>106</ymin>
+			<xmax>598</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

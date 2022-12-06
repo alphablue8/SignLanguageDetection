@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Eat.f5216c9e-74a8-11ed-af86-00e93a3b1db6.jpg</filename>
+	<path>D:\SignLanguage\Tensorflow\workspace\images\collectedimages\Eat.f5216c9e-74a8-11ed-af86-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>252</ymin>
+			<xmax>357</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>What.c9d65372-74a8-11ed-b935-00e93a3b1db6.jpg</filename>
+	<path>D:\SignLanguage\Tensorflow\workspace\images\collectedimages\What.c9d65372-74a8-11ed-b935-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>What</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>345</ymin>
+			<xmax>523</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

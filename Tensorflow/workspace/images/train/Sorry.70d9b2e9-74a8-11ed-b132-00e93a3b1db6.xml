@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Sorry.70d9b2e9-74a8-11ed-b132-00e93a3b1db6.jpg</filename>
+	<path>D:\SignLanguage\Tensorflow\workspace\images\collectedimages\Sorry.70d9b2e9-74a8-11ed-b132-00e93a3b1db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>294</ymin>
+			<xmax>427</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
